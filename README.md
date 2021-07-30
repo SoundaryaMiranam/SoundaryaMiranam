@@ -7,6 +7,8 @@ Skills : MS Excel, probability and stats, programming -python,C++,java, data wra
 
 In the past, I have worked with <a href="https://appstekcorp.com/">appstek corp.</a> as intern  related to web scrapping to extract desired data from a given URL and it’s social media handles and automated it using requests, regex, BeautifulSoup Python Library and web technologies like JSON to provide organised bid data. 
 
+Currently, I am looking for a full-time role in data science, machine learning or related field.
+
 I am happy to connect regarding any data science projects, collaboration  or events.
 
 Reach out:
