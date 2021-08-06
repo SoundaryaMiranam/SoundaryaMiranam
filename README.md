@@ -1,7 +1,5 @@
  <h3 style="font-size:10vw">👋 Hi there, I'm Soundarya.</h3>
-I am a computer science engineer.I sometimes play badminton also like building habits, Reading articles, Info-graphing contents, investigating disruptive technologies.I like diving into data and generating insights from it.My areas of interest include
-
-data analysis-descriptive, predictive analysis, Machine Learning, deep learning and Natural Language Processing. 
+I am a computer science engineer.I sometimes play badminton also like building habits, Reading articles, Info-graphing contents, investigating disruptive technologies.I like diving into data and generating insights from it, which makes me good in research and development.My areas of interest include data analysis-descriptive, predictive analysis, Machine Learning, deep learning and Natural Language Processing. 
 
 My motto :  “Let’s use data to make right decisions, data-driven decisions.”
 
