@@ -15,7 +15,6 @@ Reach out:
 <ul>
   <li><a href="mailto: miranam1997@gmail.com">Email</a></li>
   <li><a href="https://www.linkedin.com/in/soundarya-miranam-7a4766160/">LinkedIn</a></li>
-  <li><a href="https://twitter.com/M__Soundarya">Twitter</a></li>
 </ul> 
 Also ,check out my blog on <a href="https://soundarya06.medium.com/">medium</a>.
 
