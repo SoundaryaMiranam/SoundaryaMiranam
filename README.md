@@ -3,7 +3,7 @@ I am a computer science engineer.I sometimes play badminton also like building h
 
 My motto :  “Let’s use data to make right decisions, data-driven decisions.”
 
-Skills : MS Excel, probability and stats, programming -python,RStudio,C++,java, data wrangling, data visualization, database management,  machine learning- deep learning.
+Skills : MS Excel, probability and stats, programming - (python,RStudio,C++,java), data wrangling, data visualization, database management,  machine learning- deep learning.
 
 🔭 Currently, I am looking for a full-time role in data science, machine learning or related field.
 
