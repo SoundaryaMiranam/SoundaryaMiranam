@@ -5,8 +5,6 @@ My motto :  “Let’s use data to make right decisions, data-driven decisions.�
 
 Skills : MS Excel, probability and stats, programming -python,RStudio,C++,java, data wrangling, data visualization, database management,  machine learning- deep learning.
 
-In the past, I have worked with <a href="https://appstekcorp.com/">appstek corp.</a> as intern  related to web scrapping to extract desired data from a given URL and it’s social media handles and automated it using requests, regex, BeautifulSoup Python Library and web technologies like JSON to provide organised bid data. 
-
 🔭 Currently, I am looking for a full-time role in data science, machine learning or related field.
 
 I am happy to connect regarding any data science projects, collaboration  or events.
