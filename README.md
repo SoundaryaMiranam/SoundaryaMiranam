@@ -26,6 +26,3 @@ I am a Undergrad student.I like diving into data and generating insights from it
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 <hr>
 <h6 style="font-size:10vw" align="center"> Ask me about anything <a href="https://github.com/SoundaryaMiranam/SoundaryaMiranam/issues">here</a>.</h6>
-
-
-
