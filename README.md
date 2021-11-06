@@ -1,6 +1,6 @@
 
 <h2 style="font-size:10vw" align="center"> Hi folks, I'm Soundarya.<img src="https://github.com/SoundaryaMiranam/SoundaryaMiranam/blob/main/waving-hand.gif" width="40" height="40"/></h2>
-I am a Undergrad student.I like diving into data and generating insights from it.My areas of interest include data analysis-descriptive, predictive analysis, Machine Learning, deep learning.<br>Happy to connect regarding any data science projects, collaboration or events.
+I am a Undergrad student.I like diving into data and generating insights from it, which helps me in search, recycle and development.My areas of interest include data analysis-descriptive, predictive analysis, Machine Learning, deep learning.<br>Happy to connect regarding any data science projects, collaboration or events.
 <h2 style="font-size:10vw" align="center">Languages and Tools</h2>
 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
