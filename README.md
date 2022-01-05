@@ -23,4 +23,4 @@ I like diving into data and generating insights from it, which helps me in searc
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 <hr>
-<h6 style="font-size:10vw" align="center"> Ask me about anything <a href="https://github.com/SoundaryaMiranam/SoundaryaMiranam/issues">here</a>.</h6>
+<h6 style="font-size:10vw" align="center"> Ask me about anything <a href="https://github.com/SoundaryaMiranam/SoundaryaMiranam/discussions">here</a>.</h6>
